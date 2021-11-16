@@ -1,0 +1,8 @@
+**********************************IMP QUESTIONS
+
+Making Programming easier with async and await
+
+More recent additions to the Javascript language are async functions and await keyword.
+added in ECMAScript 2017. These features basically act as syntactic sugar on top of promises,
+Making asynchronous code easier to write and read afterwards. They make Async code look more like old-school sunchronous code,
+so they're well worth learning. Thids article gives you what you need to know.
